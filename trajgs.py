@@ -6,7 +6,7 @@ Created on Sun Jul 31 23:21:25 2016
 
 This code is based on traj.gs 
 a grads script used to calculate Horizontal 
-Forward and Backward trajectory
+Forward and Backward trajectories
 
 ftp://cola.gmu.edu/grads/scripts/traj.gs
 
